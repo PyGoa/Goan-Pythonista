@@ -10,4 +10,5 @@ This is a list of python enthusiasts of Goa
 | Name              | Interests in Python                            | Contact Me                                                 |
 | ---               | ---                                            | ---                                                        |
 | Suniti Gaonker    | Web Dev                                        | [Twitter](https://twitter.com/GaonkerSuniti)               |
+| Gaurang Govekar   | Data Analytics and Scripting                   | [Twitter](https://twitter.com/pythagaurang)                |
 

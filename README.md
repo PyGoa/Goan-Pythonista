@@ -12,3 +12,4 @@ This is a list of python enthusiasts of Goa
 | Suniti Gaonker    | Web Dev                                        | [Twitter](https://twitter.com/GaonkerSuniti)               |
 | Gaurang Govekar   | Data Analytics and Scripting                   | [Twitter](https://twitter.com/pythagaurang)                |
 | Vivek Silimkhan   | Machine Learning                               | [Twitter](https://twitter.com/VkSl10)                      |
+| Shawn Pereira     | Deep Learning and Scripting                    | [Twitter](https://twitter.com/Incept_shawn), [LinkedIn](https://linkedin.com/in/shawn-pereira), [Website](https://shawnpereira.me) |

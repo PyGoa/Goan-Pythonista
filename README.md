@@ -13,3 +13,4 @@ This is a list of python enthusiasts of Goa
 | Gaurang Govekar   | Data Analytics and Scripting                   | [Twitter](https://twitter.com/pythagaurang)                |
 | Vivek Silimkhan   | Machine Learning                               | [Twitter](https://twitter.com/VkSl10)                      |
 | Shawn Pereira     | Deep Learning and Scripting                    | [Twitter](https://twitter.com/Incept_shawn), [LinkedIn](https://linkedin.com/in/shawn-pereira), [Website](https://shawnpereira.me) |
+| Neil Botelho      |Deep Learning, Scientific Computing             |[LinkedIn](https://www.linkedin.com/in/neilbotelho/)        |
